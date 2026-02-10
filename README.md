@@ -24,12 +24,12 @@ class SoftwareDeveloper:
         self.role = "Software Developer @ HCLTech"
         self.education = "B.Tech in CS from IIIT-Delhi (2025)"
         self.achievements = [
-            "🏆 IEEE Best Paper Award (ANTS 2025)",
-            "📄 2 IEEE Publications on ML-based Optical Networks",
-            "⚡ 80%+ reduction in dev effort with AI automation"
+            "IEEE Best Paper Award (ANTS 2025)",
+            "2 IEEE Publications on ML-based Optical Networks",
+            "80%+ reduction in dev effort with AI automation"
         ]
         self.currently = "Building Azure OpenAI automation tools"
-        self.fun_fact = "I let AI help with frontend because why not? 😉"
+        self.fun_fact = "I let AI help with frontend because why not? :)"
 
     def say_hi(self):
         print("Thanks for stopping by! Let's build something amazing together!")
@@ -37,6 +37,11 @@ class SoftwareDeveloper:
 me = SoftwareDeveloper()
 me.say_hi()
 ```
+
+**Key Achievements:**
+- 🏆 **IEEE Best Paper Award** (ANTS 2025 - Demos & Exhibits Category)
+- 📄 **2 IEEE Publications** on ML-based Optical Networks
+- ⚡ **80%+ Efficiency Gain** in development workflows at HCLTech
 
 ---
 
